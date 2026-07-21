@@ -1,0 +1,9 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url('https://www.xtrafondos.com/wallpapers/doctor-doom-en-marvel-rivals-13219.jpg');
+
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
